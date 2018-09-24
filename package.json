@@ -1,0 +1,47 @@
+{
+  "name": "handlbars-static-web-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u4da3/handlbars-static-web-template.git"
+  },
+  "author": "u4da3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/u4da3/handlbars-static-web-template/issues"
+  },
+  "homepage": "https://github.com/u4da3/handlbars-static-web-template#readme",
+  "devDependencies": {
+    "assemble": "^0.24.3",
+    "cson": "^5.1.0",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-extname": "^0.2.2",
+    "gulp-less": "^4.0.1",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-strip-comments": "^2.5.2",
+    "gulp-stylus": "^2.7.0",
+    "js-yaml": "^3.12.0",
+    "json3": "^3.3.2",
+    "jsonpath": "^1.0.0",
+    "toml": "^2.3.3",
+    "through2": "^2.0.3",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "gulp-header": "^2.0.5",
+    "gulp-minifier": "^1.2.2",
+    "html5shiv": "^3.7.3",
+    "jquery": "^3.3.1",
+    "jquery-mobile": "^1.4.1",
+    "jquery-ui": "^1.12.1"
+  }
+}
